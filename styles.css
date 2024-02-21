@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(189, 181, 168);
+}
+h1 {
+  font-size: medium;
+  font-weight: bolder;
+}
+h4 {
+  margin-left: 20px;
+  font-family: sans-serif;
+}
+#sir {
+  text-align: right;
+  color: aqua;
+}
+.what {
+  text-align: center;
+  color: rgb(66, 136, 113);
+}
+.haven {
+  font-weight: 16px;
+  font-size: 30px;
+}
+.what {
+  font-weight: 16px;
+  font-size: 30px;
+}
+.hen {
+  font-weight: 16px;
+  font-size: 30px;
+}
+*{text-align: center; background-color: rgb(201, 206, 205);}
